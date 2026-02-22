@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+section{
+    background-color: yellow;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+}
